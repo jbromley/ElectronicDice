@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name 74HC4017N_652)(type Legacy)(uri /home/jay/Downloads/74HC4017N_652.lib)(options "")(descr ""))
+  (lib (name DieComponents)(type Legacy)(uri /home/jay/Code/Electronic_Dice/DieComponents.lib)(options "")(descr ""))
+)
